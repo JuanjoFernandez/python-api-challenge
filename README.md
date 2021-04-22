@@ -14,6 +14,7 @@ ______
 _________
 - Using CitiPy I build a city list to be able to do the requests to OpenWeather API
     - In order to create the list I use a nested for that scans longitude and latitude to find the nearest cities
-    - First test considers a search grid of 1 degree, search takes too much time to complete
-    - Search grid of 10 degrees returns 221 cities
-    - A 5 degrees search grid returns 609 cities, will use this sample for calculations
+    - The latitude and longitude searches are generated randomly
+        - Generating 50 lat/lon numbers (2500 searches) returns 370 cities
+        - Generating 100 lat/lon numbers (10000 searches) returns 870 cities
+        - Generating 70 lat/lon numbers (4900 searches) returns 500+ cities in several tests, will keep these parameters
