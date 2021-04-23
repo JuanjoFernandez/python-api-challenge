@@ -34,3 +34,4 @@
 - Casted timestamp to integer to avoid OS issues
 - Added header to readme and changelog
 - Fixed readme and changelog locations
+- Added config.py
