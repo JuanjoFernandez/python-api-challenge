@@ -27,3 +27,4 @@
 - Added insight to all correlations
 - Data obtained from API now saves "to weather_data_timestamp.csv" for reproducibility purposes
 - Added csv capability
+- Casted timestamp to integer to avoid OS issues
