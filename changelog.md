@@ -22,3 +22,4 @@
 - Graphs are now saved in png format in the [plot_images](/plot_images) folder
 - Final formatting of the regression plots done
 - Added all the regressions
+- Cleaned dataframe now saves to [weather_data.csv](/resources/weather_data.csv)
