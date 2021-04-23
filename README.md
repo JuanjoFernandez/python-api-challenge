@@ -19,3 +19,6 @@ _________
         - Generating 50 lat/lon numbers (2500 searches) returns 370 cities
         - Generating 100 lat/lon numbers (10000 searches) returns 870 cities
         - Generating 70 lat/lon numbers (4900 searches) returns 500+ cities in several tests, will keep these parameters
+- The cities list generated is used to make a series of calls to Openweather API in order to retrieve data relevant for the analysis
+- It is possible now to begin plotting data to find relations between variables
+    - The plot parameters take into account the variability of the data
