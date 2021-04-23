@@ -6,9 +6,10 @@ ______
 - This program is wrote on a Python Jupyter Notebook
     - Libraries used:
         - CitiPy by [wingchen](https://pypi.org/project/citipy/#files)
-        - Numpy, json, requests, panadas, times
+        - Numpy, json, requests, pandas, timem natplotlib, scipy, os, IPython, datetime
 - The program runs requests to [OpenWeather](https://openweathermap.org/) API
     - In order to run the program you will need to get an API key yourself and paste it into the [config.py](config.py) file
+    - However, if you don't want to use your API key, skip to cell 5 of the jupyter notebook and follow the instructions, you will lose the random samples though
 
 
 ## Overview
