@@ -20,3 +20,4 @@
 - Created linear regression for temperature vs latitude on both hemispheres
 - Fixed graphs, they now show side by side
 - Graphs are now saved in png format in the [plot_images](/plot_images) folder
+- Final formatting of the regression plots done
