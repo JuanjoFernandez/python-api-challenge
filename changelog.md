@@ -16,4 +16,5 @@
 - Cleaned the dataframe of cities witout weather information
 - Appended the requested data to the dataframe
 - Created, formatted Temperature vs Latitude scatterplot
-- Created and formatted the rest of the scatterplot
+- Created and formatted the rest of the scatterplots
+- Created linear regression for temperature vs latitude on both hemispheres
