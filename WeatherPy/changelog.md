@@ -1,3 +1,7 @@
+![Header](resources/header.jpg)
+
+# **Changelog**
+
 ### *04/22/2021*
 
 - Installed CitiPy library
@@ -19,12 +23,14 @@
 - Created and formatted the rest of the scatterplots
 - Created linear regression for temperature vs latitude on both hemispheres
 - Fixed graphs, they now show side by side
-- Graphs are now saved in png format in the [plot_images](/plot_images) folder
+- Graphs are now saved in png format in the [plot_images](plot_images) folder
 - Final formatting of the regression plots done
 - Added all the regressions
-- Cleaned dataframe now saves to [weather_data.csv](/resources/weather_data.csv)
+- Cleaned dataframe now saves to [weather_data.csv](resources/weather_data.csv)
 - Changed test parameters and ran the code with the +500 cities
 - Added insight to all correlations
 - Data obtained from API now saves "to weather_data_timestamp.csv" for reproducibility purposes
 - Added csv capability
 - Casted timestamp to integer to avoid OS issues
+- Added header to readme and changelog
+- Fixed readme and changelog locations
