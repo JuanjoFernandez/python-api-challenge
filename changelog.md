@@ -15,4 +15,5 @@
     - [] Change back sample sizes after testing
 - Cleaned the dataframe of cities witout weather information
 - Appended the requested data to the dataframe
-- Created, formatted Temperature vs Latitude scatterplot, the rest of plots will be copy/pasted just changing data to obtain
+- Created, formatted Temperature vs Latitude scatterplot
+- Created and formatted the rest of the scatterplot
