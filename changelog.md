@@ -5,3 +5,11 @@
 - Pulled all relevant data from a single request to OpenWeather
 - For loop coded
 - Added conditional in case a request fails
+
+### *04/23/2021*
+- Tested the request for loops
+    - 35 out of 598 cities returned a 404 (not found) error, meaning there's no data available for those cities
+    - 5.8% of missing data
+- Added a conditional loop to ensure that the cities list meets the minimum (577 cities)
+- Changed some values for quick-testing purposes
+    - [] Change back sample sizes after testing
