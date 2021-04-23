@@ -22,3 +22,6 @@ _________
 - The cities list generated is used to make a series of calls to Openweather API in order to retrieve data relevant for the analysis
 - It is possible now to begin plotting data to find relations between variables
     - The plot parameters take into account the variability of the data
+- All the graphs are saved as a png image in the [plot_images](/plot_images) folder
+- The data used for the analysis is saved in [weather_data.csv](/resources/weather_data.csv)
+- If you wish to run the code witout making API calls skip to cell 5 of the jupyter notebook and follow the instrutions

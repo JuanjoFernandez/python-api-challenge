@@ -24,3 +24,6 @@
 - Added all the regressions
 - Cleaned dataframe now saves to [weather_data.csv](/resources/weather_data.csv)
 - Changed test parameters and ran the code with the +500 cities
+- Added insight to all correlations
+- Data obtained from API now saves "to weather_data_timestamp.csv" for reproducibility purposes
+- Added csv capability
