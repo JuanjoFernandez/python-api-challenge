@@ -13,3 +13,4 @@
 - Added a conditional loop to ensure that the cities list meets the minimum (577 cities)
 - Changed some values for quick-testing purposes
     - [] Change back sample sizes after testing
+- Cleaned the dataframe of cities witout weather information
