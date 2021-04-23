@@ -1,8 +1,8 @@
 ![Header](resources/header.jpg)
 
-## Resources
+## **Overview**
 ______
-- This program is wrote the Python Jupyter Notebook [WeatherPy.ipynb](WeatherPy.ipynb)
+- This program is wrote in the Python Jupyter Notebook [WeatherPy.ipynb](WeatherPy.ipynb)
     - Libraries used:
         - CitiPy by [wingchen](https://pypi.org/project/citipy/#files)
         - Numpy, json, requests, pandas, time, matplotlib, scipy, os, IPython, datetime
@@ -10,8 +10,7 @@ ______
     - In order to run the program you will need to get an API key yourself and paste it into the [config.py](config.py) file
     - However, if you don't want to use your API key, skip to cell 5 of the jupyter notebook and follow the instructions, you will lose the random samples though
 
-
-## Overview
+## **Application Breakdown**
 _________
 - Using CitiPy I build a city list to be able to do the requests to OpenWeather API
     - In order to create the list I use a nested for that scans longitude and latitude to find the nearest cities
