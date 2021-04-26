@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 # Ignore sensitive files
+/VacationPy/config.py
