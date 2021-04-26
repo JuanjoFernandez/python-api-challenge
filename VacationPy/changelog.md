@@ -4,4 +4,4 @@
 - Added config.py to gitignore
 - Added user input to import csv file
 - Created the humidity heat map
-
+- Filtered the dataframe to ideal conditions
