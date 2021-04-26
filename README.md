@@ -2,16 +2,17 @@
 
 ## **Overview**
 ______
-- This program is wrote in the Python Jupyter Notebook [WeatherPy.ipynb](WeatherPy.ipynb)
+- This program is wrote in the Python Jupyter Notebook [WeatherPy.ipynb](WeaherPy/WeatherPy.ipynb)
     - Libraries used:
         - CitiPy by [wingchen](https://pypi.org/project/citipy/#files)
         - Numpy, json, requests, pandas, time, matplotlib, scipy, os, IPython, datetime
 - The program runs requests to [OpenWeather](https://openweathermap.org/) API
-    - In order to run the program you will need to get an API key yourself and paste it into the [config.py](config.py) file
+    - In order to run the program you will need to get an API key yourself and paste it into the [config.py](WeatherPy/config.py) file
     - However, if you don't want to use your API key, skip to cell 5 of the jupyter notebook and follow the instructions, you will lose the random samples though
 
 ## **Application Breakdown**
 _________
+### *PyWeather*
 - Using CitiPy I build a city list to be able to do the requests to OpenWeather API
     - In order to create the list I use a nested for that scans longitude and latitude to find the nearest cities
     - The latitude and longitude searches are generated randomly
@@ -21,6 +22,9 @@ _________
 - The cities list generated is used to make a series of calls to Openweather API in order to retrieve data relevant for the analysis
 - It is possible now to begin plotting data to find relations between variables
     - The plot parameters take into account the variability of the data
-- All the graphs are saved as a png image in the [plot_images](plot_images) folder
-- The data used for the analysis is saved in [weather_data.csv](resources/weather_data.csv)
+- All the graphs are saved as a png image in the [plot_images](WeatherPy/plot_images) folder
+- The data used for the analysis is saved in [weather_data.csv](WeatherPy/resources/weather_data.csv)
 - If you wish to run the code witout making API calls skip to cell 5 of the jupyter notebook and follow the instrutions
+- The csv file obtained by running [WeatherPy](WeatherPy/WeatherPy.ipynb) will be used on a second program useful to determine the best city to go on vacation
+### *PyVacation*
+- The vacation app is on [VacationPy.ipynb](VacationPy/VacationPy.ipynb)
