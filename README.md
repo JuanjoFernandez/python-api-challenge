@@ -28,3 +28,5 @@ _________
 - The csv file obtained by running [WeatherPy](WeatherPy/WeatherPy.ipynb) will be used on a second program useful to determine the best city to go on vacation
 ### *PyVacation*
 - The vacation app is on [VacationPy.ipynb](VacationPy/VacationPy.ipynb)
+- The application allows the user to choose any csv file obtained in [PyWeather](WeatherPy/WeatherPy.ipynb)
+- If you wish to test the application witout the +500 cities the [weather_data_test](WeatherPy/results_csv/weather_data_test.csv) file contains only 40 cities

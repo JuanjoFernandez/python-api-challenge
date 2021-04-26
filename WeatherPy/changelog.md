@@ -35,3 +35,6 @@
 - Added header to readme and changelog
 - Fixed readme and changelog locations
 - Added config.py
+
+### 04/26/2021
+- Created [weather_data_test](results_csv/weahter_data_test.csv)
