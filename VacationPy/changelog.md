@@ -5,3 +5,4 @@
 - Added user input to import csv file
 - Created the humidity heat map
 - Filtered the dataframe to ideal conditions
+- Added ideal cities humidity heat map
