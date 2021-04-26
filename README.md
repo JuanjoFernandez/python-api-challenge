@@ -1,4 +1,4 @@
-![Header](resources/header.jpg)
+![Header](WeatherPy/resources/header.jpg)
 
 ## **Overview**
 ______
