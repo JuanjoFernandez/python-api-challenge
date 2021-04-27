@@ -7,3 +7,6 @@
 - Filtered the dataframe to ideal conditions
 - Added ideal cities humidity heat map
 - Added for loop for search parameters dictionary
+
+### *04/27/2021*
+- Fixed broken search URL's
