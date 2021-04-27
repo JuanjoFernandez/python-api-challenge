@@ -10,3 +10,4 @@
 
 ### *04/27/2021*
 - Fixed broken search URL's
+- Added hotel column to ideal cities dataframe
