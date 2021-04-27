@@ -31,4 +31,4 @@ _________
 - The vacation app is on [VacationPy.ipynb](VacationPy/VacationPy.ipynb)
 - The application allows the user to choose any csv file obtained in [PyWeather](WeatherPy/WeatherPy.ipynb)
 - If you wish to test the application witout the +500 cities the [weather_data_test](WeatherPy/results_csv/weather_data_test.csv) file contains only 40 cities
-- However, if you still want to use the +500 cities list, the hotel search is done by sampling the list to 50 cities to avoid excessive Google Places API calls
+- However, if you still want to use the +500 cities list, the hotel search is done by sampling the list to 10 cities to avoid excessive Google Places API calls
