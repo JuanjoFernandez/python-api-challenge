@@ -6,3 +6,4 @@
 - Created the humidity heat map
 - Filtered the dataframe to ideal conditions
 - Added ideal cities humidity heat map
+- Added for loop for search parameters dictionary
