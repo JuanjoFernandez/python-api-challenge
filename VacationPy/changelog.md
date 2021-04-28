@@ -1,3 +1,5 @@
+![Header](../WeatherPy/resources/header2.jpg)
+
 # Changelog 
 
 ### *04/26/2021*
