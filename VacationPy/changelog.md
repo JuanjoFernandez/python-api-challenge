@@ -12,3 +12,4 @@
 - Fixed broken search URL's
 - Added hotel column to ideal cities dataframe
 - Fixed country code search
+- Re-indexed some dataframes
