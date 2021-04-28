@@ -16,3 +16,4 @@
 - Created markers for hotels in some cities, infobox with hotel name, city, country
 - Testing stage done, changed parameters for final app run
 - Formatted the info box using html tags
+- Ran the application with the final parameters, everything working fine

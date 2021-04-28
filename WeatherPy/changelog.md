@@ -42,3 +42,4 @@
 ### 04/28/2021
 - Added date of analysis to all the plots
 - Added some conditionals to keep size of cities list between 577 and 650
+- Ran the application with the final parameters, everything working fine
