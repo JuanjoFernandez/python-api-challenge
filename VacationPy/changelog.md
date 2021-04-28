@@ -14,3 +14,4 @@
 - Fixed country code search
 - Re-indexed some dataframes
 - Created markers for hotels in some cities, infobox with hotel name, city, country
+- Testing stage done, changed parameters for final app run
